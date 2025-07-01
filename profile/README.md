@@ -39,7 +39,7 @@ Orkaris develops a comprehensive software solution for personalized sports coach
 
 ## 🛠️ Tech Stack
 
-### Backend Technologies
+### [Backend Technologies](https://github.com/Orkaris/back)
 
 - **Framework**: ASP.NET Core (C#), .NET Platform
 - **Database**: PostgreSQL with Entity Framework Core ORM
@@ -50,7 +50,7 @@ Orkaris develops a comprehensive software solution for personalized sports coach
 - **Communication**: SMTP email services
 - **Utilities**: AutoMapper for object mapping
 
-### Frontend Technologies
+### [Frontend Technologies](https://github.com/Orkaris/front)
 
 - **Framework**: Expo, React Native with Expo Router
 - **Languages**: React, TypeScript, JavaScript/JSX
