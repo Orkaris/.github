@@ -27,11 +27,6 @@ Orkaris develops a comprehensive software solution for personalized sports coach
 - **Mobile-first**: Optimized for smartphones and tablets
 - **Data-driven**: Precise statistical analysis of user performance
 
-### 💰 Freemium Model
-
-- Free version with essential features
-- Premium subscription at €10/month for advanced capabilities
-
 ## 🔧 What We Build
 
 ### ✅ Core Features
